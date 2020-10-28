@@ -1,8 +1,8 @@
 # robosearch
 
 To visit the website:
+[robosearch](https://andriikachmar.github.io/robosearch/)
 
-  <https://andriikachmar.github.io/robosearch/>
 
 To run the project:
 
