@@ -1,6 +1,6 @@
 # robosearch
 
-To visit the website:/
+To visit the website:\
 [robosearch](https://andriikachmar.github.io/robosearch/)
 
 
