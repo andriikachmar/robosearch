@@ -2,7 +2,7 @@
 
 To visit the website:
 
-https://andriikachmar.github.io/robosearch/
+  https://andriikachmar.github.io/robosearch/
 
 To run the project:
 
