@@ -1,6 +1,6 @@
 # robosearch
 
-To visit the website:
+Click to visit the website:
 [robosearch](https://andriikachmar.github.io/robosearch/)
 
 
