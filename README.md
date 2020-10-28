@@ -1,5 +1,9 @@
 # robosearch
 
+To visit the website:
+
+https://andriikachmar.github.io/robosearch/
+
 To run the project:
 
 1. Clone this repo
